@@ -58,8 +58,3 @@ https://github.com/user-attachments/assets/62c76dcf-048d-4372-a7d2-90046dcec173
 | `ballHolder_*.stl` | **LGPL v2.1** | [ParRotHardware](https://github.com/ParRot-3DMouse/ParRotHardware) |
 | `upper_attachment.stl` | **CC BY-NC 4.0** | [HTC Vive Joystick mod.](https://www.thingiverse.com/thing:2705398) |
 | `body_downside.stl`<br>`upside_cover_*.stl` | **Copyright Valve Corporation** | [SteamVR Unity Plugin - v2.8.0 (sdk 2.0.10)](https://github.com/ValveSoftware/steamvr_unity_plugin/tree/master) |
-
-## 連絡先 (Contact)
-
-岩井 望 / Nozomu Iwai
-(連絡先情報があればここに記載)
